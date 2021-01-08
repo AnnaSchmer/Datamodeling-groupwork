@@ -1,0 +1,710 @@
+{
+    "DEAGOL": {
+        "﻿": "7",
+        "char": "DEAGOL",
+        "dialog": "Why?  ",
+        "movie": "The Return of the King "
+    },
+    "SMEAGOL": {
+        "﻿": "2143",
+        "char": "SMEAGOL",
+        "dialog": "Yes, we meant for us! Gollum, gollum. The precious will be ours once the Hobbitses are dead! ",
+        "movie": "The Return of the King "
+    },
+    "(GOLLUM": {
+        "﻿": "11",
+        "char": "(GOLLUM",
+        "dialog": "Murderer) ",
+        "movie": "The Return of the King "
+    },
+    "FRODO": {
+        "﻿": "2337",
+        "char": "FRODO",
+        "dialog": "We have no choice but to trust him ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "MERRY": {
+        "﻿": "2389",
+        "char": "MERRY",
+        "dialog": "Foolhardy maybe. He's a Took! ",
+        "movie": "The Return of the King "
+    },
+    "GIMLI": {
+        "﻿": "2322",
+        "char": "GIMLI",
+        "dialog": "Agh!  Let them come There's one dwarf yet in Moria who     still draws breath. ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "GOLLUM": {
+        "﻿": "2203",
+        "char": "GOLLUM",
+        "dialog": "Waaaah!  ",
+        "movie": "The Return of the King "
+    },
+    "SAM": {
+        "﻿": "2356",
+        "char": "SAM",
+        "dialog": "D'you hear that!  Rivendell! We're going to see the     elves! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "GANDALF": {
+        "﻿": "2384",
+        "char": "GANDALF",
+        "dialog": "Run, Shadowfax show us the meaning of haste. ",
+        "movie": "The Return of the King "
+    },
+    "ARAGORN": {
+        "﻿": "2388",
+        "char": "ARAGORN",
+        "dialog": "One thing I've learnt about Hobbits: They are a most hardy folk. ",
+        "movie": "The Return of the King "
+    },
+    "PIPPIN": {
+        "﻿": "2385",
+        "char": "PIPPIN",
+        "dialog": "Merry! ",
+        "movie": "The Return of the King "
+    },
+    "HOBBIT": {
+        "﻿": "2173",
+        "char": "HOBBIT",
+        "dialog": "Happy Birthday! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "ROSIE": {
+        "﻿": "1977",
+        "char": "ROSIE",
+        "dialog": "Good Night lads ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "BILBO": {
+        "﻿": "2342",
+        "char": "BILBO",
+        "dialog": "Gandalf my old friend, this will be a night to     remember.       ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "TREEBEARD": {
+        "﻿": "2085",
+        "char": "TREEBEARD",
+        "dialog": "Sleep, little Shirelings.Heed no nightly noise.Sleep till morning light.I have business in the forest.There are many to call.Many that must come. ,The Shadow lies on Fangorn.The withering of all woodsis drawing near.",
+        "movie": "The Two Towers "
+    },
+    "SARUMAN": {
+        "﻿": "1942",
+        "char": "SARUMAN",
+        "dialog": " Shadow, flame ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "THEODEN": {
+        "﻿": "2350",
+        "char": "THEODEN",
+        "dialog": "Tell me! Why should we ride to the aid of those who did not come to     ours? What do we owe Gondor? ",
+        "movie": "The Return of the King "
+    },
+    "GALADRIL": {
+        "﻿": "82",
+        "char": "GALADRIL",
+        "dialog": "    The power of the three rings is ended. The time has come for the dominion of     men.  ",
+        "movie": "The Return of the King "
+    },
+    "ELROND": {
+        "﻿": "2007",
+        "char": "ELROND",
+        "dialog": "Your hands are cold. The life of the Eldar is leaving you.  ",
+        "movie": "The Return of the King "
+    },
+    "GRIMA": {
+        "﻿": "1955",
+        "char": "GRIMA",
+        "dialog": "Get out of my way! ",
+        "movie": "The Two Towers "
+    },
+    "FRODO VOICE OVER": {
+        "﻿": "1185",
+        "char": "FRODO VOICE OVER",
+        "dialog": "Gandalf! ",
+        "movie": "The Two Towers "
+    },
+    "WITCH KING": {
+        "﻿": "527",
+        "char": "WITCH KING",
+        "dialog": " I will break him.  ",
+        "movie": "The Return of the King "
+    },
+    "EOWYN": {
+        "﻿": "2255",
+        "char": "EOWYN",
+        "dialog": "I dreamed I saw a great wave climbing over green lands and above the     hills. I stood upon the brink. It was utterly dark in the abyss before my     feet. A light shone behind me but I could not turn ,     I could only stand there, waiting. ",
+        "movie": "The Return of the King "
+    },
+    "FARAMIR": {
+        "﻿": "1328",
+        "char": "FARAMIR",
+        "dialog": "They're not coming from the North!  To the river quick, quick! ",
+        "movie": "The Return of the King "
+    },
+    "ORC": {
+        "﻿": "1548",
+        "char": "ORC",
+        "dialog": "The trees are strong my Lord.  The roots go deep ",
+        "movie": "The Fellowship of the Ring "
+    },
+    " GANDALF": {
+        "﻿": "143",
+        "char": " GANDALF",
+        "dialog": "      Retreat! The city is breached. Fall back to the second level. Get the     women and children out. Get them out. Retreat.  ",
+        "movie": "The Return of the King "
+    },
+    "SOLDIERS ON GATE": {
+        "﻿": "144",
+        "char": "SOLDIERS ON GATE",
+        "dialog": "    Come on, come on!  ",
+        "movie": "The Return of the King "
+    },
+    "GOTHMOG": {
+        "﻿": "1330",
+        "char": "GOTHMOG",
+        "dialog": " Faster!  ,      Draw swords.   ",
+        "movie": "The Return of the King "
+    },
+    "GENERAL": {
+        "﻿": "149",
+        "char": "GENERAL",
+        "dialog": "  Move along scum!      ",
+        "movie": "The Return of the King "
+    },
+    "CAPTAIN": {
+        "﻿": "1544",
+        "char": "CAPTAIN",
+        "dialog": "Come on! ",
+        "movie": "The Return of the King "
+    },
+    "SOLDIER": {
+        "﻿": "1466",
+        "char": "SOLDIER",
+        "dialog": "Very good sir. ",
+        "movie": "The Return of the King "
+    },
+    "MOUTH OF SAURON": {
+        "﻿": "213",
+        "char": "MOUTH OF SAURON",
+        "dialog": " And who is this?  Isildur's heir?  It takes more to make a King than a broken Elvish blade.      ",
+        "movie": "The Return of the King "
+    },
+    "EOMER": {
+        "﻿": "1720",
+        "char": "EOMER",
+        "dialog": "No pauses, , no spills. ",
+        "movie": "The Return of the King "
+    },
+    "ARMY": {
+        "﻿": "182",
+        "char": "ARMY",
+        "dialog": "    DEATH!  ",
+        "movie": "The Return of the King "
+    },
+    "BOSON": {
+        "﻿": "194",
+        "char": "BOSON",
+        "dialog": "Who are you to deny us passage?  ",
+        "movie": "The Return of the King "
+    },
+    "MERCENARY": {
+        "﻿": "198",
+        "char": "MERCENARY",
+        "dialog": "Boarded, by you and whose army?  ",
+        "movie": "The Return of the King "
+    },
+    "EOWYN/MERRY": {
+        "﻿": "199",
+        "char": "EOWYN/MERRY",
+        "dialog": "    DEATH!  ",
+        "movie": "The Return of the King "
+    },
+    "DENETHOR": {
+        "﻿": "2114",
+        "char": "DENETHOR",
+        "dialog": "The rule of Gondor is mine and no others! ",
+        "movie": "The Return of the King "
+    },
+    "ROHIRRIM": {
+        "﻿": "1874",
+        "char": "ROHIRRIM",
+        "dialog": "Aye!  ",
+        "movie": "The Return of the King "
+    },
+    "GALADRIEL VOICEOVER": {
+        "﻿": "242",
+        "char": "GALADRIEL VOICEOVER",
+        "dialog": "And you Frodo Baggins, I give you the light of E'rendil, our most beloved star. , May it be a light for you in dark places, when all other lights go out.  ",
+        "movie": "The Return of the King "
+    },
+    "LEGOLAS": {
+        "﻿": "2308",
+        "char": "LEGOLAS",
+        "dialog": "He is here! ",
+        "movie": "The Return of the King "
+    },
+    "GALADRIEL": {
+        "﻿": "2017",
+        "char": "GALADRIEL",
+        "dialog": "For the time will soon come when Hobbits will shape the     fortunes of all. ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "KING OF THE DEAD": {
+        "﻿": "1227",
+        "char": "KING OF THE DEAD",
+        "dialog": "  You gave us your word!      ",
+        "movie": "The Return of the King "
+    },
+    "GRIMBOLD": {
+        "﻿": "294",
+        "char": "GRIMBOLD",
+        "dialog": " I bring 500 men from the Westfold my lord.   ",
+        "movie": "The Return of the King "
+    },
+    "IROLAS": {
+        "﻿": "447",
+        "char": "IROLAS",
+        "dialog": "It is as the Lord Denethor predicted!  Long has he foreseen this doom!      ",
+        "movie": "The Return of the King "
+    },
+    "ORCS": {
+        "﻿": "481",
+        "char": "ORCS",
+        "dialog": "March, march!   March, march march!   ",
+        "movie": "The Return of the King "
+    },
+    "GAMLING": {
+        "﻿": "1470",
+        "char": "GAMLING",
+        "dialog": "I will.   ",
+        "movie": "The Return of the King "
+    },
+    "MADRIL": {
+        "﻿": "1219",
+        "char": "MADRIL",
+        "dialog": "The Orcs are lying low.  The garrison may have moved out.  We've sent     scouts to Cair Andros.  If the Orcs attack from the North, we'll have some     warning.   ",
+        "movie": "The Return of the King "
+    },
+    "DAMROD": {
+        "﻿": "1329",
+        "char": "DAMROD",
+        "dialog": "Go,  come on! ",
+        "movie": "The Return of the King "
+    },
+    "SOLDIERS": {
+        "﻿": "443",
+        "char": "SOLDIERS",
+        "dialog": "Keep going.  It's the Nazgul.  Take cover my lord.     ,     It's coming.  ",
+        "movie": "The Return of the King "
+    },
+    "SOLDIERS IN MINAS TIRITH": {
+        "﻿": "444",
+        "char": "SOLDIERS IN MINAS TIRITH",
+        "dialog": "Its Mithrandir!  The White Rider!   ",
+        "movie": "The Return of the King "
+    },
+    "GANDALF VOICEOVER": {
+        "﻿": "1828",
+        "char": "GANDALF VOICEOVER",
+        "dialog": "From the lowest dungeonto the highest peak...... I fought with the Balrogof Morgoth. ",
+        "movie": "The Two Towers "
+    },
+    "SOLDIER 1": {
+        "﻿": "528",
+        "char": "SOLDIER 1",
+        "dialog": "Where are Theoden's riders? ",
+        "movie": "The Return of the King "
+    },
+    "SOLDIER 2": {
+        "﻿": "529",
+        "char": "SOLDIER 2",
+        "dialog": "Will Rohan's army come?  Mithrandir? ",
+        "movie": "The Return of the King "
+    },
+    "WOMAN": {
+        "﻿": "836",
+        "char": "WOMAN",
+        "dialog": "He's alive! ",
+        "movie": "The Two Towers "
+    },
+    "HALDIR": {
+        "﻿": "1574",
+        "char": "HALDIR",
+        "dialog": "Aragorn!  ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "SAM VOICEOVER": {
+        "﻿": "651",
+        "char": "SAM VOICEOVER",
+        "dialog": "But in the end, it's only a passing thing...... this shadow. Even darkness must pass.      A new day will come. And when the sun shines, it will shine out the clearer.      Those were the stories      that stayed with you......that meant something. Even if you were too small      to understand why. But I think, Mr. Frodo, I do understand. I know now.           ",
+        "movie": "The Two Towers "
+    },
+    "OLD MAN": {
+        "﻿": "701",
+        "char": "OLD MAN",
+        "dialog": "Fire!       ",
+        "movie": "The Two Towers "
+    },
+    "BOROMIR": {
+        "﻿": "2321",
+        "char": "BOROMIR",
+        "dialog": "They have a cave troll! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "CROWD": {
+        "﻿": "2098",
+        "char": "CROWD",
+        "dialog": "Speech Bilbo  ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "ARWEN": {
+        "﻿": "2008",
+        "char": "ARWEN",
+        "dialog": "This was my choice. Ada, whether by your will or not there is no ship     now that can bear me hence. ",
+        "movie": "The Return of the King "
+    },
+    "ELROND VOICEOVER": {
+        "﻿": "799",
+        "char": "ELROND VOICEOVER",
+        "dialog": "But you, my daughter......you will linger on in darknessand in doubt......as nightfall in winterthat comes without a star.Here you will dwell......bound to your griefunder the fading trees...... until all the world is changed......and the long years of your lifeare utterly spent. ",
+        "movie": "The Two Towers "
+    },
+    "ARWEN VOICEOVER": {
+        "﻿": "865",
+        "char": "ARWEN VOICEOVER",
+        "dialog": "The light of the Evenstardoes not wax and wane.It is mine to give to whom I will.Like my heart.Go to sleep. ",
+        "movie": "The Two Towers "
+    },
+    "ARAGORN ": {
+        "﻿": "1799",
+        "char": "ARAGORN ",
+        "dialog": "Tracks lead away from the battle... ",
+        "movie": "The Two Towers "
+    },
+    "HAMA": {
+        "﻿": "1956",
+        "char": "HAMA",
+        "dialog": "Hail, Theoden King! ",
+        "movie": "The Two Towers "
+    },
+    "SHARKU": {
+        "﻿": "998",
+        "char": "SHARKU",
+        "dialog": "He's......dead.He took a little tumble off the cliff. ",
+        "movie": "The Two Towers "
+    },
+    "PEOPLE": {
+        "﻿": "1719",
+        "char": "PEOPLE",
+        "dialog": "Hail! ",
+        "movie": "The Return of the King "
+    },
+    "LADY": {
+        "﻿": "1003",
+        "char": "LADY",
+        "dialog": "We're safe, my lady.Thank you. ",
+        "movie": "The Two Towers "
+    },
+    "FREDA": {
+        "﻿": "1504",
+        "char": "FREDA",
+        "dialog": "I don't want to leave.I don't want to go, Mama.",
+        "movie": "The Two Towers "
+    },
+    "MORWEN": {
+        "﻿": "1506",
+        "char": "MORWEN",
+        "dialog": "Quickly! ,Go, child.",
+        "movie": "The Two Towers "
+    },
+    "EYE OF SAURON": {
+        "﻿": "1059",
+        "char": "EYE OF SAURON",
+        "dialog": "    Aragorn! ,     Elessar!  ",
+        "movie": "The Return of the King "
+    },
+    "ROHAN STABLEMAN": {
+        "﻿": "1117",
+        "char": "ROHAN STABLEMAN",
+        "dialog": "That horse is half mad, my lord. There's nothing you can do. Leave him. ",
+        "movie": "The Two Towers "
+    },
+    "GORBAG": {
+        "﻿": "1250",
+        "char": "GORBAG",
+        "dialog": "     The scum tried to knife me.  Kill him!      ",
+        "movie": "The Return of the King "
+    },
+    "ARGORN": {
+        "﻿": "1166",
+        "char": "ARGORN",
+        "dialog": "Less than a day ahead of us. Come.",
+        "movie": "The Two Towers "
+    },
+    "GANDALF VOICE OVER": {
+        "﻿": "1959",
+        "char": "GANDALF VOICE OVER",
+        "dialog": "Stars wheeled overhead......and every day was as longas a life age of the Earth.But it was not the end.I felt life in me again. ",
+        "movie": "The Two Towers "
+    },
+    "BOROMIR ": {
+        "﻿": "1188",
+        "char": "BOROMIR ",
+        "dialog": " No! No! ",
+        "movie": "The Two Towers "
+    },
+    "UGLUK": {
+        "﻿": "2058",
+        "char": "UGLUK",
+        "dialog": "Let's move! ",
+        "movie": "The Two Towers "
+    },
+    "SHAGRAT": {
+        "﻿": "1311",
+        "char": "SHAGRAT",
+        "dialog": "    Then he'll wish he'd never been born. ",
+        "movie": "The Return of the King "
+    },
+    "SARUMAN VOICE OVER": {
+        "﻿": "1507",
+        "char": "SARUMAN VOICE OVER",
+        "dialog": "Rohan, my lord......is ready to fall.",
+        "movie": "The Two Towers "
+    },
+    "SARUMAN VOICE OVER ": {
+        "﻿": "1266",
+        "char": "SARUMAN VOICE OVER ",
+        "dialog": "The Old World will burnin the fires of industry.The forests will fall.A new order will rise.We will drive the machine of warwith the sword and the spear...... and the iron fists of the Orc. We have only     to remove those who oppose us. ",
+        "movie": "The Two Towers "
+    },
+    "FRODO ": {
+        "﻿": "1287",
+        "char": "FRODO ",
+        "dialog": "No!Gandalf! ",
+        "movie": "The Two Towers "
+    },
+    "URUK-HAI": {
+        "﻿": "1317",
+        "char": "URUK-HAI",
+        "dialog": "I'm starving.We ain't had nothing but maggoty breadfor three stinking days. ",
+        "movie": "The Two Towers "
+    },
+    "SNAGA": {
+        "﻿": "1452",
+        "char": "SNAGA",
+        "dialog": "Just a mouthful......a bit of the flank. ",
+        "movie": "The Two Towers "
+    },
+    "GRISHNAKH": {
+        "﻿": "1455",
+        "char": "GRISHNAKH",
+        "dialog": "Go on.Call for help. Squeal.No one's going to save you now.  ",
+        "movie": "The Two Towers "
+    },
+    "MERRY and PIPPIN": {
+        "﻿": "2027",
+        "char": "MERRY and PIPPIN",
+        "dialog": "Comes from the Green Dragon! ",
+        "movie": "The Return of the King "
+    },
+    "WILDMAN": {
+        "﻿": "1373",
+        "char": "WILDMAN",
+        "dialog": "Murderers!",
+        "movie": "The Two Towers "
+    },
+    "STRIDER": {
+        "﻿": "2359",
+        "char": "STRIDER",
+        "dialog": " You've     already had it ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "GALADRIEL VOICE-OVER": {
+        "﻿": "1411",
+        "char": "GALADRIEL VOICE-OVER",
+        "dialog": "Your coming to us , is as the footsteps of doom.     You bring great evil here! ,Ringbearer! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "EOTHAIN": {
+        "﻿": "1503",
+        "char": "EOTHAIN",
+        "dialog": "Yes, Mama.",
+        "movie": "The Two Towers "
+    },
+    "ROHAN HORSEMAN": {
+        "﻿": "1511",
+        "char": "ROHAN HORSEMAN",
+        "dialog": "My Lord Eomer, over here!",
+        "movie": "The Two Towers "
+    },
+    "SAURON VOICE": {
+        "﻿": "2288",
+        "char": "SAURON VOICE",
+        "dialog": "You cannot hide!  , I see you!    ,There     is no life in the void , Only death! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "SAM ": {
+        "﻿": "1587",
+        "char": "SAM ",
+        "dialog": "Quiet, you!It's hopeless. Every Orc in Mordor'sgoing to hear this racket.    Let's just tie him up and leave him. ",
+        "movie": "The Two Towers "
+    },
+    "FRODO VOICE": {
+        "﻿": "1698",
+        "char": "FRODO VOICE",
+        "dialog": "GANDALF! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "GALADRIEL VOICE OVER": {
+        "﻿": "1871",
+        "char": "GALADRIEL VOICE OVER",
+        "dialog": "A Hobbit. Bilbo Baggins of the Shire.         ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "FARMER MAGGOT": {
+        "﻿": "1761",
+        "char": "FARMER MAGGOT",
+        "dialog": "Hoi! You get back here! Wait till I get this through you!     , Get out of my fields! You'll know the devil if I catch     up with you! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "WHITE WIZARD": {
+        "﻿": "1819",
+        "char": "WHITE WIZARD",
+        "dialog": "You are tracking the footstepsof two young Hobbits. ",
+        "movie": "The Two Towers "
+    },
+    "MERRY AND PIPPIN": {
+        "﻿": "2144",
+        "char": "MERRY AND PIPPIN",
+        "dialog": "Frodo! Frodo! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "GAFFER": {
+        "﻿": "1975",
+        "char": "GAFFER",
+        "dialog": "Cheers ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "NOAKES": {
+        "﻿": "1846",
+        "char": "NOAKES",
+        "dialog": " War's brewing.    , The mountains are fair teeming with     goblins. ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "SANDYMAN": {
+        "﻿": "1976",
+        "char": "SANDYMAN",
+        "dialog": "Well it's none of our concern what goes on beyond our borders. Keep your     nose out of trouble and no trouble will come to you.  ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "FIGWIT": {
+        "﻿": "1852",
+        "char": "FIGWIT",
+        "dialog": "Lady Arwen we cannot delay. , My lady! ",
+        "movie": "The Return of the King "
+    },
+    "GENERAL SHOUT": {
+        "﻿": "1876",
+        "char": "GENERAL SHOUT",
+        "dialog": "Lets drink to Victory! To Victory! ",
+        "movie": "The Return of the King "
+    },
+    "GRISHNAK": {
+        "﻿": "1904",
+        "char": "GRISHNAK",
+        "dialog": "You're lateOur master grows impatient.He wants the Shire-rats now. ",
+        "movie": "The Two Towers "
+    },
+    "URUK HAI": {
+        "﻿": "2055",
+        "char": "URUK HAI",
+        "dialog": "Man-flesh ",
+        "movie": "The Two Towers "
+    },
+    "SARUMAN VOICEOVER": {
+        "﻿": "1941",
+        "char": "SARUMAN VOICEOVER",
+        "dialog": "You know what they woke in the dark of Khazad-d'm ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "MRS BRACEGIRDLE": {
+        "﻿": "1994",
+        "char": "MRS BRACEGIRDLE",
+        "dialog": "Yeah ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "BILBO VOICEOVER": {
+        "﻿": "2124",
+        "char": "BILBO VOICEOVER",
+        "dialog": "And so life in the Shire goes on, very much as it has     this past age. , Full of its own comings and goings with change coming     slowly, if it comes at all. ,For things are made to endure in     the Shire, passing from one generation to the next. There's always been a     Baggins living here under the Hill, in Bag End        ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "PROUDFOOT HOBBIT": {
+        "﻿": "2101",
+        "char": "PROUDFOOT HOBBIT",
+        "dialog": " PROUDFEET!  ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "GATEKEEPER": {
+        "﻿": "2169",
+        "char": "GATEKEEPER",
+        "dialog": " alright young sir, I     meant no offence. ,My job to ask questions after nightfall. There's talk of strange folk     abroad. Can't be too careful  ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "GATEKEEPR": {
+        "﻿": "2167",
+        "char": "GATEKEEPR",
+        "dialog": "Hobbits! Four hobbits!  What's more out of     The Shire by your talk!  What business brings you to Bree? ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "MAN": {
+        "﻿": "2170",
+        "char": "MAN",
+        "dialog": "Out of the way! Watch where you're walking! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "CHILDREN HOBBITS": {
+        "﻿": "2193",
+        "char": "CHILDREN HOBBITS",
+        "dialog": "Hooooraaaay!        ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "BARLIMAN": {
+        "﻿": "2281",
+        "char": "BARLIMAN",
+        "dialog": "He's one of them rangers. They're dangerous folk they are.      Wandering the wilds.  What his right name is, I've never heard, but     round here, he's known as Strider. ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "RING": {
+        "﻿": "2283",
+        "char": "RING",
+        "dialog": "Baggins.... Baggins.... Baggins ....Baggins!  Baggins! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "MEN": {
+        "﻿": "2287",
+        "char": "MEN",
+        "dialog": "Oh! ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "VOICE": {
+        "﻿": "2300",
+        "char": "VOICE",
+        "dialog": "I know you're in there!       ",
+        "movie": "The Fellowship of the Ring "
+    },
+    "SAURON": {
+        "﻿": "2309",
+        "char": "SAURON",
+        "dialog": "I see you! ",
+        "movie": "The Return of the King "
+    },
+    "GAN DALF": {
+        "﻿": "2349",
+        "char": "GAN DALF",
+        "dialog": "His defeat at Helm's Deep showed our enemy one thing.    , He knows the Heir of     Elendil has come forth ,     Men are not as weak as he supposed. There is courage still. Strength enough,     perhaps, to challenge him. Sauron fears this. He will not risk the peoples     of Middle Earth uniting under one banner. , He will raze Minas Tirith to the ground    , before he     sees a King return to the throne of men. If the beacons of Gondor are lit     Rohan must be ready for war. ",
+        "movie": "The Return of the King "
+    }
+}
